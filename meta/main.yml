@@ -42,6 +42,10 @@ dependencies:
         url: github.com/kubernetes-incubator/cri-tools/cmd/crictl
       - name: yq
         url: github.com/mikefarah/yq
+      # - name: yq
+      #  url: github.com/mikefarah/yq
+      - name: yq
+        url: github.com/kislyuk/yq
 
   - role: geerlingguy.docker
     version: 2.1.0
