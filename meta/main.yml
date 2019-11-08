@@ -43,7 +43,7 @@ dependencies:
       # - name: yq
       #  url: github.com/mikefarah/yq
       - name: yq
-        url: github.com/kislyuk/yq
+        url: github.com/030/go-yq
 
   - role: geerlingguy.docker
     version: 2.1.0
